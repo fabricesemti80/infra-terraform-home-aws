@@ -2,20 +2,29 @@
 # Manual edits may be lost in future updates.
 
 provider "registry.opentofu.org/hashicorp/aws" {
-  version     = "4.0.0"
-  constraints = "~> 4.0.0"
+  version     = "4.67.0"
+  constraints = "~> 4.67.0"
   hashes = [
-    "h1:X915MDFTYaFn9WjWbIc2x5tVGj8n+bkWSk4JJAhXOIs=",
-    "zh:162e4149f93ba0f9d2246367d4d7464f3f9c8923c63765d95d688fe16911cbdd",
-    "zh:1b5271b84bd065ecab981bfe9654397ed874df836c055b2b3013883165a1091f",
-    "zh:1bfe130b50497a61020b966ddc716645737152132d985277e1e52fc15c5440f1",
-    "zh:50a756887426ae85a90a6f89156340703c551394aeb51654f1b568a8a030fb50",
-    "zh:56d8f593357b93f430e9d15066055687cd1c971cb9e8569355bc17c085bfb105",
-    "zh:869b7e97da6dfb4c2811156eb9ad4047bd0203b8304f6e47240f8d9c37e75f62",
-    "zh:d2605066fee47b2a1fdd781bd94d7e7c4e5fb2dac8dec11999f8307eb14d8d7c",
-    "zh:d6d21271151a22953e361d1a135c95eb35ce7385e7d5ab6ecea9514f4920d68d",
-    "zh:f83611ced2cd35b1554f6548a93b880c10b3a37a03c81fec0324f4756d7528e1",
-    "zh:fef0b1168c20f32afe209c346337667cd0b50505066373003e33d33b9449057a",
+    "h1:7shV8yomt9ovUL13EKJxBP82Wtt06j7F0J8OzJy541w=",
+    "h1:C4N8Y99izLp0dhy1ZMdMjcrXQq5f+VeQu/oMDvTzWUw=",
+    "h1:QPBp5QCM5lreJYYmzCs0UTa5ECuJLBBd6K+UeXYd3bE=",
+    "h1:UqjO17j/5vsp9hNMIcsHhMg7aPnCwP13nAaFWQF/Uzs=",
+    "h1:VmRNA5Q7f5kmLTNNREwWJZJLlLsKUy05kn0s269FGEk=",
+    "h1:XdzNcLs1X9EajZP/fazeC2u9El+qLayLB+TgGPiL3d8=",
+    "h1:j/CwaqBbuUZJq6SaRl+4kXLaOy+M2GnKtDYi0/gRp3g=",
+    "h1:tzVggYkdw2UG/etj+dBd3Zb26uJhok2bA1/pLom4Vfc=",
+    "h1:u78IIGMSieXWeudiUbl1NIeOwz6kCX9wtDRlJcBntaU=",
+    "h1:we2D/YbkMwtTi4ZrPwcwsDi8jXB2kC9jikZP2UqgI08=",
+    "zh:2b1321bd60deb949ccb13266e15a2ccacbd80a30c4aa48458d4ca8cffb34491f",
+    "zh:67b909726b0e4d6e9c8a4ddd8036fcb248fcee9b710280b8563045f7657a721a",
+    "zh:8c4decefe264717ec0bced279d187cb82aff8a1ab8f1da312240f61299647658",
+    "zh:91a11c67abe7e3329e86547babc9e56caee23e95beb0438165e8fc7e4f02ae44",
+    "zh:b1b59c5e5076877eb2d5b7cae8629ab3e030ec7972757d4e8a49a20b17131e06",
+    "zh:c3cf2f633400c43b0811c9facedbd56f700a637af7d72144a72422c0b635bb2e",
+    "zh:cfd13d1312127a9326c63126eb637a28dae3249dd67a5bbc52e336fb3e08b259",
+    "zh:dc49d6b634cdfbf6ae796b19b9c781599ab0bc941e2c229a452c76fbc9eee3cc",
+    "zh:e2d1bb7c0f66021039724640897bc7b12eb40eff37e0b94015abb6c41e612219",
+    "zh:ff1c838fb5a695191ff1682db31f7c68b2f7ebeb8d512bf1f0865949728a0b3d",
   ]
 }
 
