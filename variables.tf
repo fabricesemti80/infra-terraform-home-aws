@@ -15,3 +15,12 @@ variable "aws_secret_key" {
   type        = string
   sensitive   = true
 }
+
+variable "tags" {
+  type = map(string)
+  default = {
+    ManagedBy   = "Terraform"
+    Environment = "Dev"
+  }
+  description = "The tags to apply to all resources"
+}
